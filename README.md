@@ -32,33 +32,33 @@ Git for version control
 
 EMS/
 ├── controllers/                 # Application Controllers
-│   ├── ApproveRequestsController.php
-│   ├── DashboardController.php
-│   ├── LeaveRequestController.php
-│   ├── LoginController.php
-│   ├── MoodController.php
-│   ├── ProfileController.php
-│   ├── SceneController.php
-│   ├── ScheduleController.php
-│   ├── SignUpController.php
-│   └── ViewAllEmployeesController.php
+│   ├── ApproveRequestsController
+│   ├── DashboardController
+│   ├── LeaveRequestController
+│   ├── LoginController
+│   ├── MoodController
+│   ├── ProfileController
+│   ├── SceneController
+│   ├── ScheduleController
+│   ├── SignUpController
+│   └── ViewAllEmployeesController
 │
 ├── models/                     # Data Models
-│   ├── Department.php
-│   ├── LeaveRequest.php
-│   ├── Mood.php
-│   └── User.php
+│   ├── Department
+│   ├── LeaveRequest
+│   ├── Mood
+│   └── User
 │
 ├── views/                      # User Interface Views
-│   ├── ApproveRequestsView.php
-│   ├── DashboardView.php
-│   ├── LeaveRequestView.php
-│   ├── LoginView.php
-│   ├── ProfileView.php
-│   ├── ScheduleView.php
-│   ├── SidebarView.php
-│   ├── SignUpView.php
-│   └── ViewAllEmployeesView.php
+│   ├── ApproveRequestsView
+│   ├── DashboardView
+│   ├── LeaveRequestView
+│   ├── LoginView
+│   ├── ProfileView
+│   ├── ScheduleView
+│   ├── SidebarView
+│   ├── SignUpView
+│   └── ViewAllEmployeesView
 │
 └── db/                         # Database Configuration
     └── DBConnection
